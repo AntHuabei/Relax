@@ -1,0 +1,12 @@
+<com.liaoinstan.springview.widget.SpringView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/qiubai_index_refreshView"
+
+    >
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/qiubai_index_recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</com.liaoinstan.springview.widget.SpringView>
